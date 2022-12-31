@@ -8,7 +8,7 @@
 <img width="20%" align="right" alt="silviacodes" src="https://media.giphy.com/media/u4pJXYaD80n9p0vzU5/giphy.gif" />
 
 ### 🙍 About me
-I'm Maria - Front-end Passionate 🔥 💻 🔥<br>
+I'm Maria - Front-end Passionate 🔥 💻 🔥<br/>
 I love learning new things and going deeper in subjects I already have knowledge about.<br>
 Once as I was working as a doctor a coworker told me as a joke "you should learn to code and join the team" and well...that was an inception. The seed of the idea grow in me until one day I said "this is the time!" and started CodersLab's bootcamp where I learned a lot about Front End. Right now I'm still learning and deepening my knowledge.
 
@@ -16,13 +16,10 @@ Once as I was working as a doctor a coworker told me as a joke "you should learn
 <br>
 
 ## Connect with Me on Social Media
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/marylangiewicz/)
-[<img align="left" alt="codewars" src="https://img.shields.io/badge/CODEWARS-b1361e.svg?&style=for-the-badge&logo=codewars&logoColor=black" target="_blank"/>](https://www.codewars.com/users/MaryLangiewicz)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank"/>]
-[<img align="left" alt="github" src="https://img.shields.io/badge/GITHUB-white.svg?&style=for-the-badge&logo=GITHUB&logoColor=black" target="_blank"/>](https://github.com/MaryLangiewicz/) 
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-e4405f.svg?&style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"/>](https://www.instagram.com/langiewiczmaria_/)
-
-<br>
+[<img align="left" alt="codewars" src="https://img.shields.io/badge/CODEWARS-b1361e.svg?&style=for-the-badge&logo=codewars&logoColor=black" target="blank"/>](https://www.codewars.com/users/MaryLangiewicz)
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="blank"/>](https://stackoverflow.com/users/20899264/maria-langiewicz)
+[<img align="left" alt="github" src="https://img.shields.io/badge/GITHUB-white.svg?&style=for-the-badge&logo=GITHUB&logoColor=black" target="blank"/>](https://github.com/MaryLangiewicz/) 
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-e4405f.svg?&style=for-the-badge&logo=Instagram&logoColor=white" target="blank"/>](https://www.instagram.com/langiewiczmaria_/)
 <br>
 
 ## Technology Stack
@@ -35,6 +32,4 @@ Once as I was working as a doctor a coworker told me as a joke "you should learn
 ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-gray?style=for-the-badge&logo=Figma)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=WebStorm)
-
-<br>
-<br>
+<br/>
