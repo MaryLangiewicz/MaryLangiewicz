@@ -43,5 +43,3 @@ Once as I was working as a doctor a coworker told me as a joke "you should learn
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaryLangiewicz&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryLangiewicz&layout=compact&theme=vision-friendly-dark)](https://github.com/MaryLangiewicz/github-readme-stats)
