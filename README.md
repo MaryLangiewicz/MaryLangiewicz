@@ -7,9 +7,9 @@
 <img width="20%" align="right" alt="silviacodes" src="https://media.giphy.com/media/u4pJXYaD80n9p0vzU5/giphy.gif" />
 
 ### 🙍 About me
-I'm Maria - Front-end Passionate 🔥 💻 🔥<br/>
+I'm Maria - Frontend Passionate 🔥 💻 🔥<br/>
 I love learning new things and going deeper in subjects I already have knowledge about.<br>
-Once as I was working as a doctor a coworker told me as a joke "you should learn to code and join the team" and well...that was an inception. The seed of the idea grow in me until one day I said "this is the time!" and started CodersLab's bootcamp where I learned a lot about Front End. Right now I'm still learning and deepening my knowledge.
+Once as I was working as a doctor a coworker told me as a joke "you should learn to code and join the team" and well...that was an inception. The seed of the idea grow in me until one day I said "this is the time!" and started bootcamp where I learned a lot about Frontend. Right now I'm still learning and deepening my knowledge.
 
 ---
 
